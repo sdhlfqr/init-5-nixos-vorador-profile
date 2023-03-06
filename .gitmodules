@@ -1,0 +1,3 @@
+[submodule "users/sdhlfqr"]
+	path = users/sdhlfqr
+	url = git@github.com:sdhlfqr/init-5-nixos-sdhlfqr-home.git

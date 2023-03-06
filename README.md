@@ -1,1 +1,1 @@
-# init-5-nixos: Sayf's Legacy Laptop Profile (vorador)
+# init-5-nixos: Sayf's Legacy Laptop NixOS Configuration Profile (vorador)
